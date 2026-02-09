@@ -2,13 +2,13 @@
 
 ## Setting project up for the first time
 - Run `git clone git@github.com:EllisOllier/sleep-tracker.git`
-- Open project with vscode
+- Open project with vscode or code editor of choice
 - Run `cd ./frontend`
 - Run `npm install`
-- New terminal or `cd ..`
+- New terminal or run `cd ..`
 - Run `cd ./backend`
 - Run `npm install`
-- You can now run `npm run dev` on the frontend and backend
+- You can now run `npm run dev` on the frontend and backend to start the project
 
 ## Running frontend
 
