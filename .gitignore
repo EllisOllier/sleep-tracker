@@ -6,6 +6,9 @@
 ./frontend/dist-ssr
 ./frontend/*.local
 
+## Backend ignores
+./backend/node_modules
+
 ## General ignores
 .vscode/*
 !.vscode/extensions.json
