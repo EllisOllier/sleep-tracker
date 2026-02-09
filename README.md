@@ -2,8 +2,8 @@
 
 ## Running frontend
 
-- cd ./frontend
-- npm run dev
+- `cd ./frontend`
+- `npm run dev`
 
 ## Running backend
 - `cd ./backend`
