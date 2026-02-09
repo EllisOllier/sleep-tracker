@@ -39,3 +39,4 @@
 - Abbie Roberts
 - Tomasz Walesiuk
 - Ace Blakeburn
+- Isaac Rideal
