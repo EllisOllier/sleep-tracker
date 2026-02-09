@@ -24,6 +24,13 @@
 - Run `git branch feature/FEATURENAME`
 - Run `git checkout feature/FEATURENAME`
 
+### Merging
+- Run `git pull` for current branch
+- Run `git checkout main`
+- Run `git pull`
+- Run `git merge feature/FEATURENAME`
+- Check any conflicts and ensure nothing is overwritten that shouldn't be
+
 ## Team Members
 - Ellis Ollier
 - Khaled Husain
