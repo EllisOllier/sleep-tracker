@@ -1,5 +1,4 @@
 ## Frontend ignores
-./frontend/node_modules
 ./frontend/logs
 ./frontend/*.log
 ./frontend/dist
@@ -8,6 +7,7 @@
 
 ## Backend ignores
 ./backend/node_modules
+
 
 ## General ignores
 .vscode/*
@@ -20,3 +20,4 @@
 *.sln
 *.sw?
 *.env
+*/node_modules
