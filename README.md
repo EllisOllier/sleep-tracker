@@ -5,6 +5,10 @@
 - cd ./frontend
 - npm run dev
 
+## Running backend
+- `cd ./backend`
+- `npm run dev`
+
 ## Team Members
 - Ellis Ollier
 - Khaled Husain
