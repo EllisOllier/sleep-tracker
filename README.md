@@ -20,6 +20,10 @@
 - `cd ./backend`
 - `npm run dev`
 
+### Branching (To be discussed)
+- Run `git branch feature/FEATURENAME`
+- Run `git checkout feature/FEATURENAME`
+
 ## Team Members
 - Ellis Ollier
 - Khaled Husain
