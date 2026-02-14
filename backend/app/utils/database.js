@@ -42,3 +42,7 @@ const initDatabase = () => {
 
     console.log('Database tables initialized');
 }
+
+initDatabase();
+
+module.exports = db;
