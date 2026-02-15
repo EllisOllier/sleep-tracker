@@ -3,7 +3,7 @@ const path = require(`path`);
 
 const dbPath = path.resolve(__dirname, `sleeptracker.db`);
 
-const db = new Database(dbPath, { verbose : console.log});
+const db = new Database(dbPath, { verbose: console.log });
 
 console.log(`Connected to SQLite database`);
 
@@ -14,7 +14,8 @@ const initDatabase = () => {
             id INTEGER PRIMARY KEY AUTOINCREMENT
             email TEXT UNIQUE NOT NULL
             password TEXT NOT NULL
-            name TEXT
+            first_name TEXT
+            last_name TEXT
             created_at DATETIME DEFAULT CURRENT_TIMESTAMP
             updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
             )

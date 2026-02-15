@@ -1,5 +1,7 @@
-const login = (req, res) => {
+const Joi = require("joi");
 
+const login = (req, res) => {
+    const { email, password } = req.body;
 }
 
 const signUp = (req, res) => {
